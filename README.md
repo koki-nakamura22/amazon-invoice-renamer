@@ -1,0 +1,2 @@
+# amazon-invoice-renamer
+Amazonの請求書ファイル名を電子帳簿保存法に対応した名前に一気に変換するプログラム
